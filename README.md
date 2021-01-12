@@ -12,3 +12,4 @@ Information regarding the manuscript about adaptation to the social environment 
 - heterosis_check.R is the code to create the heterosis supplementary plot and the analysis for the data
 - clutch_analysis.R is code for the analysis of the clutch size data
 - hole_analysis.R is code to analyse what factors influence the presence of a feeding incision prior to offspring arrival
+- brood_analysis.R is code for analysing the brood success data across the two environments and the number of larvae across the two environments
