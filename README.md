@@ -14,3 +14,4 @@ Information regarding the manuscript about adaptation to the social environment 
 - hole_analysis.R is code to analyse what factors influence the presence of a feeding incision prior to offspring arrival
 - brood_analysis.R is code for analysing the brood success data across the two environments and the number of larvae across the two environments
 - avg_mass_analysis.R is code to analyse the average larval mass of the broods in the experiment
+- lifespan_analysis.R is code to analyse the lifespan of the males and females in the experiment
